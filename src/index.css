@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --color-rockets-red: #CE1141;
+  --color-court-orange: #FF5F1F;
+}
